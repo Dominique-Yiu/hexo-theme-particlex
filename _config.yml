@@ -49,7 +49,7 @@ menu:
 card:
     enable: true
     description: |
-        Here's an argvchs...
+        Hi There
     iconLinks:
         github:
             name: github
