@@ -2,11 +2,11 @@
 # https://github.com/theme-particlex/hexo-theme-particlex
 
 # Avatar image
-avatar: https://static-argvchs.netlify.app/images/avatar.jpg
+avatar: /images/avatar.jpg
 
 # Home page background image
 background:
-    - https://static-argvchs.netlify.app/images/background.jpg
+    - /images/8.jpg
 
 # Loading image
 loading: /images/loading.gif
@@ -34,7 +34,7 @@ menu:
         link: /about
     Archives:
         name: box-archive
-        theme: solid
+        theme: solidj
         link: /archives
     Categories:
         name: bookmark
